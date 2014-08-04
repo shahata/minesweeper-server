@@ -1,0 +1,20 @@
+{
+  "name": "minesweeper-server",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.6.1"
+  },
+  "bin": {
+    "minesweeper-server": "bin/server"
+  },
+  "preferGlobal": true,
+  "author": {
+    "name": "Shahar Talmi"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
