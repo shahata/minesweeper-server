@@ -1,6 +1,6 @@
 {
   "name": "minesweeper-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "body-parser": "^1.4.3",
     "express": "^4.6.1"
